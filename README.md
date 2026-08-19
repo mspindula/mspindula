@@ -77,6 +77,22 @@ Sou apaixonado por tecnologia e estou constantemente buscando aprimorar meus con
 />
 <img 
     align="left" 
+    alt="node" 
+    title="NodeJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://thesvg.org/icons/nodejs/default.svg" 
+/>
+<img 
+    align="left" 
+    alt="electron" 
+    title="Electron"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://thesvg.org/icons/electron/default.svg" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
